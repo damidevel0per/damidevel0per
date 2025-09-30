@@ -8,7 +8,6 @@ Programador .NET
 
 * 🌍  Estoy en Paraná, Entre Rios
 * ✉️  Podes contactarte conmigo acá [Email](mailto:dami.ale91@gmail.com)
-* 🧠  Actualmente aprendiendo HTML, CSS, JAVASCRIPT, REACT
 
 ### Skills
 
